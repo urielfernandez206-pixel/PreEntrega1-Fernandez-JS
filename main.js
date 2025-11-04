@@ -1,10 +1,10 @@
 alert("Bienvenido a nuestra tienda online");
 
 let productos = [
-    { nombre: "Camisa", precio: 20 },
-    { nombre: "Pantalón", precio: 30 },
-    { nombre: "Zapatos", precio: 50 },
-    { nombre: "Chaqueta", precio: 60 }
+    { nombre: "Camisa", precio: 1000 },
+    { nombre: "Pantalón", precio: 5000 },
+    { nombre: "Zapatos", precio: 3000 },
+    { nombre: "Chaqueta", precio: 10000 }
 ];
 
 let carrito = [];
